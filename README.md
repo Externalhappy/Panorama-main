@@ -1,2 +1,2 @@
 # Panorama
-This is a straightforward implementation of an image stitching algorithm (Panorama). Enjoy!
+This is an implementation of the image stitching algorithm (Panorama). Enjoy!
